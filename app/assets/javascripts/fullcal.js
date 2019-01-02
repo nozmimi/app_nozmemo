@@ -6,6 +6,6 @@ $(document).ready(function(){
         // select: function(data) {
         //   var str = moment(data).format( 'YYYY/MM/DD' );
         //   console.log(str);
-        }
+        // }
     });
 });
