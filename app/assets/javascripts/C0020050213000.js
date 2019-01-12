@@ -4,7 +4,7 @@ var APP_ID = 'bb86c86ee575b3adfa4930ee0f17a74de14e57e6';
 var APP_LANG = 'j'
 
 // API URL
-var API_URL = "http://api.e-stat.go.jp/rest/2.1/app/json/getStatsData"
+var API_URL = "https://api.e-stat.go.jp/rest/2.1/app/json/getStatsData"
 
 // 統計表ID
 var statsDataId ="0003199765"
